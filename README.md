@@ -20,9 +20,7 @@
 <summary>  Stats 📊 </summary>
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hugopradops&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="hugopradops github stats" /> 
-  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugopradops&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" />
 </div>
-
 
 <!-- 
 For any one that need it use it :
