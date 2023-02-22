@@ -10,7 +10,7 @@
 <summary>  Experiences with 🧠 </summary>
 <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,javascript,html,c,java,git,docker,linux"/>
+            <img src="https://skillicons.dev/icons?i=react,javascript,html,css,c,java,git,docker,linux"/>
         </a>
     </p>
 </details>
