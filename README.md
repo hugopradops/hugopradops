@@ -5,7 +5,8 @@
 - ⚙️ Focused mainly on webdevelopment using: React, JavaScript, CSS.
 - 🚀 2023 Goals: Improve my overall performace as a programmer
 
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <summary>  Experiences with 🧠</summary>
 <p align="center">
