@@ -3,7 +3,7 @@
 - 👨‍💻 I’m currently a Student at University of Guelph 
 - 📚 Currently learning everything everwhere all at once 😂
 - ⚙️ Focused mainly on webdevelopment using: React, JavaScript, CSS.
-- 🚀 2023 Goals: Improve my overall performace as a programmer
+- 🚀 2024 Goals: Improve my overall performace as a programmer
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
