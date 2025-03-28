@@ -8,13 +8,12 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<summary>  Experiences with 🧠</summary>
+<summary>Experiences with 🧠</summary>
 <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,javascript,html,c,java,git,docker,linux"/>
-        </a>
-    </p>
-
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,javascript,html,css,c,java,python,git,github,linkedin,docker,linux,sqlite" />
+    </a>
+</p>
 <img align = "right" alt="coding" width ="400" src = "https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
 
