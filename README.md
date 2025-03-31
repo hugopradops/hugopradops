@@ -9,8 +9,9 @@
 ---
 
 ## 😂 Here's a Random Joke to Brighten Your Day!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 ---
 
 ## 🧠 **Skills & Tools**
