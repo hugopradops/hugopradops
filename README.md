@@ -10,14 +10,14 @@
 
 ## 🌐 **My Website**
 Check out my personal website to see some of my projects and learn more about me:  
-[**hugoprado.dev**](https://hugoprado.dev)
+[**hugoprado.dev**](https://hub.hugoprado.dev)
 
 ---
 
 ## 🛠️ **Projects**
 Here are a few projects I’ve worked on:
 
-- **[Portfolio Website](https://hugoprado.dev)**  
+- **[Portfolio Website](https://hub.hugoprado.dev)**  
   A responsive portfolio showcasing my skills, projects, and contact information. Built with React and CSS.
 
 ---
