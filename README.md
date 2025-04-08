@@ -20,6 +20,9 @@ Here are a few projects I’ve worked on:
 - **[Portfolio Website](https://hub.hugoprado.dev)**  
   A responsive portfolio showcasing my skills, projects, and contact information. Built with React and CSS.
 
+- **[Brazillian Store Template](https://brasil-food.hugoprado.dev/)**  
+  A responsive template for a Brazilian food store built with React and Next.js.
+
 ---
 
 ## 😂 Here's a Random Joke to Brighten Your Day!
