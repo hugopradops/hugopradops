@@ -8,6 +8,20 @@
 
 ---
 
+## 🌐 **My Website**
+Check out my personal website to see some of my projects and learn more about me:  
+[**hugoprado.dev**](https://hugoprado.dev)
+
+---
+
+## 🛠️ **Projects**
+Here are a few projects I’ve worked on:
+
+- **[Portfolio Website](https://hugoprado.dev)**  
+  A responsive portfolio showcasing my skills, projects, and contact information. Built with React and CSS.
+
+---
+
 ## 😂 Here's a Random Joke to Brighten Your Day!
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
