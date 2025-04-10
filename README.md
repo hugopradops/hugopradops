@@ -16,6 +16,8 @@
     <td class="tg-0lax">
      <a href="https://brasil-food.hugoprado.dev/">Brazilian Store Template</a><br>
       Responsive template for a Brazilian food store using React & Next.js
+     <a href="https://ai-learning.hugoprado.dev/">Ai Learning Homelab</a><br>
+      AI-Learning runs the Gemma3:12b model on my basement homelab using Traefik, Docker, and SQLite for backend management.
     </td>
   </tr>
   <tr>
