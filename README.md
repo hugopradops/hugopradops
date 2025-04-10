@@ -1,4 +1,4 @@
-![Resume Preview](assets/hugopsp_resume.png)
+![Resume Preview](https://github.com/hugopradops/resume-latex/blob/main/assets/hugopsp_resume.png)
 
 # Hi there, I'm Hugo 👋 
 ---
