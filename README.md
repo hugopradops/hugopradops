@@ -1,17 +1,12 @@
 # Hi there, I'm Hugo 👋 
 
+![Resume Preview](https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.png)
+
 👨‍💻 **About Me**  
 - 🎓 I’m currently a student at the **University of Guelph**.  
 - 📚 I’m learning everything, everywhere, all at once! 😂  
 - ⚙️ My focus is on **web development** using: React, JavaScript, and CSS.  
 - 🚀 **2025 Goals**: Enhance my programming skills and overall performance as a developer.  
-
----
-
-## 📄 **My Resume**
-<a href="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf">
-  <img src="https://github.com/user-attachments/assets/your-resume-image-link-here" alt="Hugo's Resume" />
-</a>
 
 ---
 
@@ -50,3 +45,9 @@ Here are a few projects I’ve worked on:
 </p>
 
 ---
+
+<!-- 
+Helpful Resources:
+- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+- https://github.com/rudrabarad/Gifs 
+-->
