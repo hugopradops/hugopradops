@@ -4,12 +4,12 @@
 
 <body>
   <tr>
-    <td class="tg-0lax"><a href="https://github.com/hugopradops/resume-latex/raw/main/assets/hugopsp_resume.pdf">Check out my Resume</a></td>
+    <td class="tg-0lax"><a href="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf">Check out my Resume</a></td>
     <td class="tg-0lax"><strong>🛠️ Projects</strong><br></td>
   </tr>
   <tr>
     <td class="tg-0pky">
-      <a href="https://github.com/hugopradops/resume-latex/raw/main/assets/hugopsp_resume.pdf">
+      <a href="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf">
         <img src="https://github.com/hugopradops/resume-latex/blob/main/assets/hugopsp_resume.png" alt="Resume Preview" width="200">
       </a>
     </td>
