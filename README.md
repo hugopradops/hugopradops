@@ -9,7 +9,7 @@
 ---
 
 ## 📄 **Resume**
-You can check out my resume [here](resume-latex/hugopsp_resume.tex).
+You can check out my resume [here](https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.tex).
 
 ---
 
