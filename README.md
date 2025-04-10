@@ -2,16 +2,21 @@
 
 👨‍💻 **About Me**  
 - 🎓 I’m currently a student at the **University of Guelph**.  
-- 📚 I’m learning everything, everywhere, all at once! 😂  
+- 📚 I’m passionate about learning everything, everywhere, all at once!  
 - ⚙️ My focus is on **web development** using: React, JavaScript, and CSS.  
 - 🚀 **2025 Goals**: Enhance my programming skills and overall performance as a developer.  
+
+---
+
+## 📄 **Resume**
+You can check out my resume [here](resume-latex/hugopsp_resume.tex).
 
 ---
 
 ## 🛠️ **Projects**
 Here are a few projects I’ve worked on:
 
-- **[Brazillian Store Template](https://brasil-food.hugoprado.dev/)**  
+- **[Brazilian Store Template](https://brasil-food.hugoprado.dev/)**  
   A responsive template for a Brazilian food store built with React and Next.js.
 
 ---
