@@ -1,7 +1,7 @@
 # Hi there, I'm Hugo 👋 
 
   <tr>
-    <td class="tg-0lax"><a href="https://raw.githubusercontent.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf">Check out my Resume</a></td>
+    <td class="tg-0lax"><a href="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf">Check out my Resume</a></td>
   </tr>
 
 👨‍💻 **About Me**  
