@@ -16,13 +16,6 @@ Here are a few projects I’ve worked on:
 
 ---
 
-## 😂 Here's a Random Joke to Brighten Your Day!
-<div align="center">
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
-
----
-
 ## 🧠 **Skills & Tools**
 <p align="center">
     <a href="https://skillicons.dev">
