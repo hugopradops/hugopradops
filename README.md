@@ -9,7 +9,7 @@
 ---
 
 ## 📄 **My Resume**
-<a href="https://raw.githubusercontent.com/hugopradops/resume-latex/hugopsp_resume.pdf">
+<a href="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf">
   <img src="https://github.com/user-attachments/assets/your-resume-image-link-here" alt="Hugo's Resume" />
 </a>
 
