@@ -1,6 +1,12 @@
 # Hi there, I'm Hugo 👋 
 
-![Resume Preview](https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.png)
+<tr>
+  <td class="tg-0lax">
+    <a href="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.png">
+      <img src="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.png" alt="Resume" style="background-color: white; width: 150px; height: auto;">
+    </a>
+  </td>
+</tr>
 
 👨‍💻 **About Me**  
 - 🎓 I’m currently a student at the **University of Guelph**.  
