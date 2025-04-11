@@ -16,7 +16,7 @@
     <td class="tg-0lax">
      <a href="https://brasil-food.hugoprado.dev/">Brazilian Food Store Template</a><br>
       Responsive template for a Brazilian food store using React & Next.js<br><br>
-     <a href="https://ai-learning.hugoprado.dev/">Ai Learning Homelab</a><br>
+     <a href="https://ai-learning.hugoprado.dev/">Ai Learning Homelab</a><br><br>
       AI-Learning runs the Gemma3:12b model on my basement homelab using Traefik, Docker, and SQLite for backend management.
      <a href="https://hub.hugoprado.dev//">Personal Website</a><br>
       A portfolio website showcasing my projects, skills, and experience, built with modern web technologies.
