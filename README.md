@@ -21,6 +21,7 @@
      <a href="https://hub.hugoprado.dev//">Personal Website</a><br>
       A portfolio website showcasing my projects, skills, and experience, built with modern web technologies.
     </td>
+    <p>ALl of them running on my homelab using Docker and Traefik for reverse proxy.</p>
   </tr>
   <tr>
     <td class="tg-0lax">GitHub Stats</td>
