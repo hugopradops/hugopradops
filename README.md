@@ -20,8 +20,8 @@
       AI-Learning runs the Gemma3:12b model on my basement homelab using Traefik, Docker, and SQLite for backend management.<br><br>
      <a href="https://hub.hugoprado.dev//">Personal Website</a><br>
       A portfolio website showcasing my projects, skills, and experience, built with modern web technologies.
-    </td>
-    <p>ALl of them running on my homelab using Docker and Traefik for reverse proxy.</p>
+    </td><br>
+    ALl of them running on my homelab using Docker and Traefik for reverse proxy.
   </tr>
   <tr>
     <td class="tg-0lax">GitHub Stats</td>
