@@ -14,7 +14,7 @@
       </a>
     </td>
     <td class="tg-0lax">
-      ALl of them running on my homelab using Docker and Traefik for reverse proxy.<br>
+      All of them running on my homelab using Docker and Traefik for reverse proxy.<br><br>
      <a href="https://brasil-food.hugoprado.dev/">Brazilian Food Store Template</a><br>
       Responsive template for a Brazilian food store using React & Next.js<br><br>
      <a href="https://ai-learning.hugoprado.dev/">Ai Learning Homelab</a><br>
