@@ -1,39 +1,43 @@
-# Hi there, I'm Hugo 👋 
+# Hi there, I'm Hugo 👋
 
-<table class="tg">
+A modern, responsive personal portfolio website showcasing my projects, skills, and professional journey.
 
-<body>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf">Check out my Resume</a></td>
-    <td class="tg-0lax"><strong>🛠️ Projects</strong><br></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">
-      <a href="https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf">
-        <img src="https://github.com/hugopradops/resume-latex/blob/main/assets/hugopsp_resume.png" alt="Resume Preview" width="200">
-      </a>
-    </td>
-    <td class="tg-0lax">
-      All of them running on my homelab using Docker and Traefik for reverse proxy.<br><br>
-     <a href="https://brasil-food.hugoprado.dev/">Brazilian Food Store Template</a><br>
-      Responsive template for a Brazilian food store using React & Next.js<br><br>
-     <a href="https://ai-learning.hugoprado.dev/">Ai Learning Homelab</a><br>
-      AI-Learning runs the Gemma3:12b model on my basement homelab using Traefik, Docker, and SQLite for backend management.<br><br>
-     <a href="https://hub.hugoprado.dev//">Personal Website</a><br>
-      A portfolio website showcasing my projects, skills, and experience, built with modern web technologies.
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">GitHub Stats</td>
-    <td class="tg-0lax">Skills</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugopradops&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" alt="Top Languages">
-    </td>
-    <td class="tg-0lax">
-      <img src="https://skillicons.dev/icons?i=react,javascript,html,css,c,java,python,git,github,docker,linux,sqlite" alt="Skills">
-    </td>
-  </tr>
-</body>
-</table>
+## 📄 Resume
+
+[Check out my Resume](https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf)
+
+## 🛠️ Projects
+
+All projects are running on my homelab using Docker and Traefik for reverse proxy.
+
+- **[Brazilian Food Store Template](https://brasil-food.hugoprado.dev/)** - Responsive template for a Brazilian food store using React & Next.js
+
+- **[AI Learning Homelab](https://ai-learning.hugoprado.dev/)** - Runs the Gemma3:12b model on my basement homelab using Traefik, Docker, and SQLite for backend management
+
+- **[Personal Website](https://hub.hugoprado.dev/)** - Portfolio website showcasing projects, skills, and experience built with modern web technologies
+
+## 🌟 Features
+
+- **Responsive Design**: Optimized for all devices (desktop, tablet, mobile)
+- **Dark/Light Theme Toggle**: Switch between themes with a single click
+- **Interactive Business Card**: Clean, professional presentation
+- **Project Showcase**: Featured projects with live demos and GitHub links
+- **Smooth Animations**: Enhanced user experience with CSS transitions
+- **Performance Optimized**: Fast loading and lightweight
+
+## 💻 Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Styling**: Custom CSS with Flexbox/Grid layouts
+- **Icons**: Custom SVG icons for social links
+- **Deployment**: Docker-ready
+- **Backend**: React, Next.js, SQLite (for projects)
+- **DevOps**: Docker, Traefik, Linux
+
+## 🚀 Skills
+
+`React` • `JavaScript` • `HTML/CSS` • `C` • `Java` • `Python` • `Git` • `GitHub` • `Docker` • `Linux` • `SQLite`
+
+## 📊 GitHub Stats
+
+Visit my [GitHub profile](https://github.com/hugopradops) to see more projects and contributions!
