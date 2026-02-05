@@ -3,11 +3,11 @@
 ## 🛠️ Featured Projects
 
 - **[Brazilian Flavors](https://brazilfood.hugoprado.dev/)** - A responsive template for a Brazilian food store built with HTML, CSS, and JavaScript
-  - [GitHub Repository](https://github.com/hugopradops/brasil-food)
+  
 
 - **[toremember.gift](https://www.toremember.gift/)** - A 3D printing business creating personalized gifts and memorable keepsakes (In Progress)
 
-- **[Rustic Notes](https://github.com/hugopradops/pxnotes)** - A simple, beautiful cross-platform terminal notes app built with Rust and TUI
+- **[Rustic Notes](https://github.com/hugopradops/Rustic-Notes)** - A simple, beautiful cross-platform terminal notes app built with Rust and TUI
 
 ## 🚀 Skills
 
