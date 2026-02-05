@@ -1,43 +1,15 @@
-# Hi there, I'm Hugo 👋
+# Hi there 👋
 
-A modern, responsive personal portfolio website showcasing my projects, skills, and professional journey.
+## 🛠️ Featured Projects
 
-## 📄 Resume
+- **[Brazilian Flavors](https://brazilfood.hugoprado.dev/)** - A responsive template for a Brazilian food store built with HTML, CSS, and JavaScript
+  - [GitHub Repository](https://github.com/hugopradops/brasil-food)
 
-[Check out my Resume](https://github.com/hugopradops/resume-latex/blob/main/hugopsp_resume.pdf)
+- **[toremember.gift](https://www.toremember.gift/)** - A 3D printing business creating personalized gifts and memorable keepsakes (In Progress)
 
-## 🛠️ Projects
-
-All projects are running on my homelab using Docker and Traefik for reverse proxy.
-
-- **[Brazilian Food Store Template](https://brasil-food.hugoprado.dev/)** - Responsive template for a Brazilian food store using React & Next.js
-
-- **[AI Learning Homelab](https://ai-learning.hugoprado.dev/)** - Runs the Gemma3:12b model on my basement homelab using Traefik, Docker, and SQLite for backend management
-
-- **[Personal Website](https://hub.hugoprado.dev/)** - Portfolio website showcasing projects, skills, and experience built with modern web technologies
-
-## 🌟 Features
-
-- **Responsive Design**: Optimized for all devices (desktop, tablet, mobile)
-- **Dark/Light Theme Toggle**: Switch between themes with a single click
-- **Interactive Business Card**: Clean, professional presentation
-- **Project Showcase**: Featured projects with live demos and GitHub links
-- **Smooth Animations**: Enhanced user experience with CSS transitions
-- **Performance Optimized**: Fast loading and lightweight
-
-## 💻 Tech Stack
-
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Styling**: Custom CSS with Flexbox/Grid layouts
-- **Icons**: Custom SVG icons for social links
-- **Deployment**: Docker-ready
-- **Backend**: React, Next.js, SQLite (for projects)
-- **DevOps**: Docker, Traefik, Linux
+- **[Rustic Notes](https://github.com/hugopradops/pxnotes)** - A simple, beautiful cross-platform terminal notes app built with Rust and TUI
 
 ## 🚀 Skills
 
-`React` • `JavaScript` • `HTML/CSS` • `C` • `Java` • `Python` • `Git` • `GitHub` • `Docker` • `Linux` • `SQLite`
+`JavaScript` • `HTML/CSS` • `C` • `Java` • `Python` • `Rust` • `Git` • `GitHub` • `Docker` • `Linux`
 
-## 📊 GitHub Stats
-
-Visit my [GitHub profile](https://github.com/hugopradops) to see more projects and contributions!
